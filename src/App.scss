@@ -1,0 +1,32 @@
+$theme-colors: (
+        'primary': #5FBF77,
+);
+
+.flex {
+  display: flex;
+}
+
+.flex-wrap {
+  flex-wrap: wrap;
+}
+
+.gap-4 {
+  gap: 24px;
+}
+
+.gap-3 {
+  gap: 18px;
+}
+
+.flex-shrink-0 {
+  flex-shrink: 0;
+}
+
+.flex-shrink-1 {
+  flex-shrink: 1;
+}
+
+.w-full {
+  width: 100%;
+}
+
